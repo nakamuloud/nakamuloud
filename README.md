@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @nakamuloud as a poor SRE engineer
+- 👋 Hi, I’m @nakamuloud as a poor SRE engineer at Honda
 - 👀 I’m interested in 
   - DevOps
   - Container
   - Typescript
-  - Dont Repeat Yourself mind
+  - IaC
 - 🌱 I’m currently learning 
   - Nest.js
   - How to scale the system more bigger
